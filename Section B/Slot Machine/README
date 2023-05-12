@@ -1,0 +1,20 @@
+The application in question is a custom random number generator,
+that operates similarly to a slot machine, with certain aspects that can and cannot be controlled.
+The application is designed to provide users with a range of random numbers within a specified
+range, with the added option of selecting the number of random numbers to be generated.
+
+Upon launching the application, users are presented with a user-friendly graphical user interface
+(GUI), designed using the JFrame component. The interface prompts users to enter a start and end
+range, defining the range within which the random numbers will be generated.
+Additionally, users are prompted to enter the number of random numbers they wish to generate.
+
+The application incorporates several technical features to enhance user experience and prevent
+errors. One such feature is the use of exception handling to prevent users from entering
+non-numeric values. In the event that a user does enter a non-numeric value, a prompt will
+appear, asking if they wish to continue using the application.
+
+This custom random number generator provides users with a simple yet effective tool for
+generating random numbers within specific ranges. The incorporation of technical features
+ensures that users have a seamless experience while using the application, making
+it an excellent choice for anyone looking for a reliable and user-friendly random number
+generator.
